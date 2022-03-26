@@ -1,9 +1,9 @@
-release-notes
--------------
+Technical Writing HQ Capstone Project
+------------
 
 Documents
-==========
-..toctree::
-  :maxdepth: 16
-  
-  release-notes
+=========
+.. toctree::
+   :maxdepth: 16
+
+   user-guide
